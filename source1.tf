@@ -1,1 +1,5 @@
-provider
+provider arm "azrm"
+ {
+region ""
+}
+  
